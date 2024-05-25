@@ -117,9 +117,7 @@ return [
         ],
     ],
     'attributes'           => [
-        'name' => '名前',
-        'email' => 'メールアドレス',
-        'password' => 'パスワード',
-        'quantity' => '数量'
+        'title' => '件名',
+        'content' => '本文'
     ],
 ];
